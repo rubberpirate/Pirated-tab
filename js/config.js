@@ -97,7 +97,7 @@ const CONFIG = {
       key: 'thm',
       url: 'https://tryhackme.com/dashboard',
       search: '/search?q={}',
-      color: '#212121',
+      color: 'linear-gradient(135deg, #A3EA2A, #212C42, #082F2B)',
       icon: 'mdn',
       quickLaunch: false,
     },
