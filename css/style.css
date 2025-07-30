@@ -155,7 +155,7 @@ template {
   /* colors */
   --background: rgba(14, 14, 14, 0.7);
   --foreground: #F1F1F1;
-  --random-background: url('assets/images/background.png');
+  --random-background: url('assets/images/old/background.png');
 
   /* fonts */
   --base-font-size: 18px;

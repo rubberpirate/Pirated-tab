@@ -1,0 +1,17 @@
+{
+  "name": "pirated-tab-optimizer",
+  "version": "1.0.0",
+  "description": "Image optimization script for Pirated Tab",
+  "main": "optimize-images.js",
+  "scripts": {
+    "optimize": "node optimize-images.js",
+    "verify": "node verify-webp.js",
+    "install-deps": "npm install sharp"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
